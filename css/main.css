@@ -58,7 +58,7 @@ ul {
   text-decoration: none;
   margin: 0.5em;
   width: 20%;
-  padding: 3em 1em;
+  padding: 3em 0.8em;
   border-radius: 0.7em;
   border: 1px solid #333;
   -webkit-transition: 0.5s;
@@ -103,6 +103,10 @@ ul {
 .content-container .left-text {
   margin-right: 50pt;
   color: #fff;
+}
+
+.content-container img {
+  width: 50%;
 }
 
 .content-container span {
